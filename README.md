@@ -13,11 +13,11 @@ You can Install Neovim using the standard apt package manager but it will only i
 
 To install the latest version. Use apt-get
 
-`
-sudo add-apt-repository ppa:neovim-ppa/stable 
-sudo apt-get update 
+```
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt-get update
 sudo apt-get install neovim
-`
+```
 
 #### Plugins
 
